@@ -1,0 +1,19 @@
+{
+	"name": "danielbachhuber/wp-cli-stat-command",
+	"type": "command",
+	"description": "Explore data about your WordPress site.",
+	"keywords": ["wp-cli","analytics"],
+	"homepage": "https://github.com/danielbachhuber/wp-cli-stat-command",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Daniel Bachhuber",
+			"email": "d@danielbachhuber.com",
+			"homepage": "http://danielbachhuber.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+        "php": ">=5.3.0"
+    }
+}
