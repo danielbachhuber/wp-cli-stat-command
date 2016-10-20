@@ -1,6 +1,6 @@
 {
 	"name": "danielbachhuber/wp-cli-stat-command",
-	"type": "command",
+	"type": "wp-cli-package",
 	"description": "Explore data about your WordPress site.",
 	"keywords": ["wp-cli","analytics"],
 	"homepage": "https://github.com/danielbachhuber/wp-cli-stat-command",
